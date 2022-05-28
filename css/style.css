@@ -1,0 +1,70 @@
+html {
+    background-color: rgb(65, 58, 58);
+    color: rgb(201, 211, 223);
+    font-family: monospace;
+    padding: 10px;
+}
+
+h1, h2 {
+    text-align: center;
+    box-shadow: 2px 2px 2px rgb(201, 211, 223);
+    background-color: rgb(103, 108, 114);
+}
+
+video {
+    width: 60%;
+    margin: auto;
+    display: block;
+}
+
+.main_article {
+    display: flex;
+}
+
+.div_article {
+    background-color: rgb(103, 108, 114);
+    border-radius: 5px;
+}
+
+.second_div {
+    display: flex;
+}
+
+.second_article {
+    background-color: rgb(103, 108, 114);
+    border-radius: 5px;
+}
+
+.third_div {
+    display: flex;
+}
+
+.third_article {
+    background-color: rgb(103, 108, 114);
+    border-radius: 5px;
+}
+
+.fourth_div {
+    display: flex;
+}
+
+.fourth_article {
+    background-color: rgb(103, 108, 114);
+    border-radius: 5px;
+}
+
+.fifth_div {
+    display: flex;
+}
+
+footer {
+    background-color: rgb(199, 210, 200);
+}
+
+h4 {
+    color: rgb(65, 58, 58);
+}
+
+.black_white_pictures:hover {
+    filter: grayscale(1);
+}
