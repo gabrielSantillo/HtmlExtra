@@ -1,18 +1,19 @@
 html {
-    background-color: rgb(65, 58, 58);
-    color: rgb(201, 211, 223);
+    background-color: rgb(94, 88, 63);
+    color: rgb(83, 79, 65);
     font-family: monospace;
     padding: 10px;
 }
 
 h1, h2 {
     text-align: center;
-    box-shadow: 2px 2px 2px rgb(201, 211, 223);
-    background-color: rgb(103, 108, 114);
+    box-shadow: 2px 2px 2px rgb(237, 227, 186);
+    background-color: rgb(52, 50, 40);
+    color: rgb(237, 227, 186);
 }
 
-video {
-    width: 60%;
+.header_lion {
+    width: 40%;
     margin: auto;
     display: block;
 }
@@ -22,7 +23,7 @@ video {
 }
 
 .div_article {
-    background-color: rgb(103, 108, 114);
+    background-color: rgb(237, 227, 186);
     border-radius: 5px;
 }
 
@@ -31,7 +32,7 @@ video {
 }
 
 .second_article {
-    background-color: rgb(103, 108, 114);
+    background-color: rgb(237, 227, 186);
     border-radius: 5px;
 }
 
@@ -40,7 +41,7 @@ video {
 }
 
 .third_article {
-    background-color: rgb(103, 108, 114);
+    background-color: rgb(237, 227, 186);
     border-radius: 5px;
 }
 
@@ -49,7 +50,7 @@ video {
 }
 
 .fourth_article {
-    background-color: rgb(103, 108, 114);
+    background-color: rgb(237, 227, 186);
     border-radius: 5px;
 }
 
@@ -71,6 +72,7 @@ h4 {
 
 .h3 {
     text-align: center;
-    box-shadow: 2px 2px 2px rgb(201, 211, 223);
-    background-color: rgb(103, 108, 114);
+    box-shadow: 2px 2px 2px rgb(237, 227, 186);
+    background-color: rgb(52, 50, 40);
+    color: rgb(237, 227, 186);
 }
